@@ -192,4 +192,4 @@ This repository serves as the official landing page for SPTD x64. The software i
 **Get the most recent version of SPTD x64 today!**
 
 ---
-**Last updated:** 2026-11-13 17:28:39 UTC
+**Last updated:** 2026-11-13 23:11:27 UTC
